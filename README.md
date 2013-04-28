@@ -19,7 +19,7 @@ Then in your `~/.zshrc`
 
 ```
 ZSH_THEME="../../Development/oh-my-zsh-more-themes/moox"
-```s
+```
 
 ## Adding a theme
 
