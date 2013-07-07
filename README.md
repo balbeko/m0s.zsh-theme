@@ -8,13 +8,13 @@ Example:
 
 ```bash
 $ cd ~/Development
-$ git clone git://github.com/balbeko/m0s-oh-my-zsh-theme
+$ git clone git://github.com/balbeko/m0s.zsh-theme
 ```
 
 Then in your `~/.zshrc`
 
 ```
-ZSH_THEME="../../Development/m0s-oh-my-zsh-theme/m0s"
+ZSH_THEME="../../Development/m0s.zsh-theme/m0s"
 ```
 ---
 
