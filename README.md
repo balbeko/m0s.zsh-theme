@@ -1,8 +1,4 @@
-# More theme for Oh My ZSH
-
-Since Oh My ZSH [don't want more theme in the main repo (for now)](https://github.com/robbyrussell/oh-my-zsh#dont-send-us-your-theme-for-now), here is a repo where you can share your theme with the world.
-
-TL;DR Choose a theme in to the [Availables themes](#availables-themes) & checkout how to [install it](#install-a-theme).
+# My Oh My Zsh theme based on MoOx's one 
 
 ## Install a theme
 
@@ -12,36 +8,23 @@ Example:
 
 ```bash
 $ cd ~/Development
-$ git clone git://github.com/MoOx/oh-my-zsh-more-themes
+$ git clone git://github.com/balbeko/m0s-oh-my-zsh-theme
 ```
 
 Then in your `~/.zshrc`
 
 ```
-ZSH_THEME="../../Development/oh-my-zsh-more-themes/moox"
+ZSH_THEME="../../Development/m0s-oh-my-zsh-theme/m0s"
 ```
-
-## Adding a theme
-
-Just make a Pull Request with your theme & a screenshot int PNG with the same name & add them in the [Availables themes](#availables-themes) section on this README. You can also a link to a color scheme that works great with it ;)
-
-/!\ Please follow [oh-my-zsh rules to submit a theme screenshot](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#how-to-submit-your-theme).
-Thanks.
- 
-Example: `moox.zsh-theme` & `moox.zsh-theme.png`
-
 ---
 
 ## Availables themes
 
-### [MoOx](moox.zsh-theme)
-
-![moox.zsh-theme](moox.zsh-theme.png)
-
+### [m0s](m0s.zsh-theme)
 Works great with [MoOx/iTerm-theme-Monokai-Soda](https://github.com/MoOx/iTerm-theme-Monokai-Soda).
 
 ---
 
 ## License
 
-Released under [MIT Licence](http://moox.mit-license.org/)
+Released under [MIT Licence](http://balbeko.mit-license.org/)

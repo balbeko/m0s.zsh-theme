@@ -9,10 +9,7 @@ local sep="%{$fg[cyan]%}»%{$reset_color%}"
 local pwd="%{$fg[blue]%}%~%{$reset_color%}"
 local doll="%{$fg[green]%}$%{$reset_color%}"
 
-PROMPT='${smiley}
-
-${user}${host} ${sep} ${pwd}
-${doll} '
+PROMPT='${smiley} ${user}${host} ${sep} ${pwd} ${doll} '
 
 RPROMPT='$(rvm-prompt || rbenv version) %{$fg[yellow]%}$(git_prompt_info)%{$reset_color%}'
 
