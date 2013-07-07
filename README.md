@@ -1,6 +1,6 @@
-# My Oh My Zsh theme based on MoOx's one 
+## My Oh My Zsh theme based on MoOx's one 
 
-## Install a theme
+### Install a theme
 
 Clone this repo where you want & just use a relative path from `~/.oh-my-zsh/themes/` in your `.zshrc`.
 
@@ -18,13 +18,13 @@ ZSH_THEME="../../Development/m0s-oh-my-zsh-theme/m0s"
 ```
 ---
 
-## Availables themes
+### Availables themes
 
-### [m0s](m0s.zsh-theme)
+#### [m0s](m0s.zsh-theme)
 Works great with [MoOx/iTerm-theme-Monokai-Soda](https://github.com/MoOx/iTerm-theme-Monokai-Soda).
 
 ---
 
-## License
+### License
 
 Released under [MIT Licence](http://balbeko.mit-license.org/)
